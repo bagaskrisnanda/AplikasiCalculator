@@ -1,0 +1,15 @@
+C:\KULIAH\PERCOBAAN 1\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.exe
+C:\KULIAH\PERCOBAAN 1\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.deps.json
+C:\KULIAH\PERCOBAAN 1\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.runtimeconfig.json
+C:\KULIAH\PERCOBAAN 1\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.dll
+C:\KULIAH\PERCOBAAN 1\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net6.0\CalculatorConsoleApp.pdb
+C:\KULIAH\PERCOBAAN 1\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.csproj.AssemblyReference.cache
+C:\KULIAH\PERCOBAAN 1\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\KULIAH\PERCOBAAN 1\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.AssemblyInfoInputs.cache
+C:\KULIAH\PERCOBAAN 1\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.AssemblyInfo.cs
+C:\KULIAH\PERCOBAAN 1\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\KULIAH\PERCOBAAN 1\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.dll
+C:\KULIAH\PERCOBAAN 1\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\refint\CalculatorConsoleApp.dll
+C:\KULIAH\PERCOBAAN 1\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.pdb
+C:\KULIAH\PERCOBAAN 1\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\CalculatorConsoleApp.genruntimeconfig.cache
+C:\KULIAH\PERCOBAAN 1\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net6.0\ref\CalculatorConsoleApp.dll
